@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>OneToOne</groupId>
+  <artifactId>OneToOne</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191122092929</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 27 11:50:05 IST 2019
+@192.168.10.2\:808>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1574835605376
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-release-plugin\:pom\:2.5.3 from/to central (https\://repo.maven.apache.org/maven2)\: Failed to connect to /192.168.10.2\:808
